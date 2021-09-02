@@ -11,7 +11,7 @@ authors:
     index: 2
   - name: Justus Thies
     link: https://justusthies.github.io/
-    index: 2,3
+    index: 2 3
   - name: Matthias Nießner
     link: https://www.niessnerlab.org/members/matthias_niessner/profile.html
     index: 2
@@ -23,7 +23,7 @@ affiliations:
     index: 1
   - name: Technical University of Munich
     index: 2
-  - name: 3Max Planck Institute for Intelligent Systems, Tubingen
+  - name: Max Planck Institute for Intelligent Systems, Tubingen
     index: 3
 links:
     arxiv: https://arxiv.org/abs/2012.02512
