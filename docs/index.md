@@ -11,7 +11,7 @@ authors:
     index: 2
   - name: Justus Thies
     link: https://justusthies.github.io/
-    index: 2,3
+    index: 2 3
   - name: Matthias Nie{\ss}ner
     link: https://www.niessnerlab.org/members/matthias_niessner/profile.html
     index: 2
@@ -28,6 +28,7 @@ affiliations:
 links:
     arxiv: https://arxiv.org/abs/2012.02512
     code: https://github.com/grip-unina/id-reveal
+    video: https://www.youtube.com/watch?v=RsFxsOLvRdY
 ---
 
 <center><img src="./header.jpg" alt="header" height="200" /></center>
