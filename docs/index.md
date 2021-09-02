@@ -1,6 +1,6 @@
 ---
 layout: paper
-paper: ID-Reveal: Identity-aware DeepFake Video Detection
+paper: ID-Reveal&colon; Identity-aware DeepFake Video Detection
 github_url: https://github.com/grip-unina/id-reveal
 authors:  
   - name: Davide Cozzolino
