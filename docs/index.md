@@ -6,13 +6,13 @@ authors:
   - name: Davide Cozzolino
     link: http://www.grip.unina.it/people/userprofile/davide_cozzolino.html
     index: 1
-  - name: Andreas R{\"o}ssler
+  - name: Andreas Rössler
     link: http://niessnerlab.org/members/andreas_roessler/profile.html
     index: 2
   - name: Justus Thies
     link: https://justusthies.github.io/
-    index: 2 3
-  - name: Matthias Nie{\ss}ner
+    index: 2,3
+  - name: Matthias Nießner
     link: https://www.niessnerlab.org/members/matthias_niessner/profile.html
     index: 2
   - name: Luisa Verdoliva
