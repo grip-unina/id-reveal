@@ -6,33 +6,25 @@ authors:
   - name: Davide Cozzolino
     link: http://www.grip.unina.it/people/userprofile/davide_cozzolino.html
     index: 1
-
   - name: Andreas R{\"o}ssler
     link: http://niessnerlab.org/members/andreas_roessler/profile.html
     index: 2
-
   - name: Justus Thies
     link: https://justusthies.github.io/
     index: 2,3
-
   - name: Matthias Nie{\ss}ner
     link: https://www.niessnerlab.org/members/matthias_niessner/profile.html
     index: 2
-
   - name: Luisa Verdoliva
     link: http://www.grip.unina.it/people/userprofile/vrdoliva.html
     index: 1
-
 affiliations: 
   - name: University Federico II of Naples, Italy
     index: 1
-
   - name: Technical University of Munich
     index: 2
-
   - name: 3Max Planck Institute for Intelligent Systems, Tubingen
     index: 3
-    
 links:
     arxiv: https://arxiv.org/abs/2012.02512
     code: https://github.com/grip-unina/id-reveal
