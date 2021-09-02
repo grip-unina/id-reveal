@@ -1,9 +1,4 @@
 remote_theme: grip-unina/webtemplate
-<<<<<<< HEAD
 plugins:
   - jekyll
   - jekyll-seo-tag
-=======
-
-theme: jekyll-theme-time-machine
->>>>>>> ee1d85e52cb7ba9e4b7805d91dac300f3ac06338
